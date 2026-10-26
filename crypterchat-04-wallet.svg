@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="358px" height="774px" viewBox="0 0 358 774" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled 22</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.62" offset="0%"></stop>
+            <stop stop-color="#F6F7FB" stop-opacity="0.48" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crypterchat-04-wallet">
+            <rect id="background" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="357.5" height="773.666667"></rect>
+            <g id="screen" transform="translate(14.6667, 17.6)">
+                <g id="sb" transform="translate(16.5, 0)">
+                    <g id="span" fill="#111318" fill-rule="nonzero" font-family="Inter-Regular_Bold, Inter" font-size="14.2083333" font-weight="bold">
+                        <text id="9:41">
+                            <tspan x="0" y="14">9:41</tspan>
+                        </text>
+                    </g>
+                    <g id="r" transform="translate(227.4525, 2.3833)">
+                        <g id="icon-0" transform="translate(0, 2.475)" fill="#111318" fill-rule="nonzero">
+                            <rect id="Rectangle" x="0" y="6.41666667" width="2.75" height="3.66666667" rx="0.733333333"></rect>
+                            <rect id="Rectangle" x="4.21666667" y="4.58333333" width="2.75" height="5.5" rx="0.733333333"></rect>
+                            <rect id="Rectangle" x="8.43333333" y="2.38333333" width="2.75" height="7.7" rx="0.733333333"></rect>
+                            <rect id="Rectangle" x="12.65" y="0" width="2.75" height="10.0833333" rx="0.733333333"></rect>
+                        </g>
+                        <g id="span" transform="translate(21.0833, 0)" fill="#111318" fill-rule="nonzero" font-family="Inter-Regular_Bold, Inter" font-size="12.375" font-weight="bold">
+                            <text id="LTE">
+                                <tspan x="0" y="12">LTE</tspan>
+                            </text>
+                        </g>
+                        <g id="icon-1" transform="translate(48.0058, 2.475)">
+                            <rect id="Rectangle" stroke="#111318" stroke-width="0.916666667" opacity="0.35" x="0" y="0" width="20.1666667" height="10.0833333" rx="2.93333333"></rect>
+                            <rect id="Rectangle" fill="#111318" fill-rule="nonzero" x="1.375" y="1.375" width="15.5833333" height="7.33333333" rx="1.65"></rect>
+                            <rect id="Rectangle" fill="#111318" fill-rule="nonzero" opacity="0.45" x="21.5416667" y="3.20833333" width="1.375" height="3.66666667" rx="0.641666667"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="top" transform="translate(3.6667, 35.3833)" fill-rule="nonzero">
+                    <g id="h1" fill="#111318" font-family="Inter-Regular_ExtraBold, Inter" font-size="27.5" font-weight="700">
+                        <text id="Wallet">
+                            <tspan x="0" y="27">Wallet</tspan>
+                        </text>
+                    </g>
+                    <g id="link" transform="translate(273.9367, 7.5167)" fill="#7B5CFF" font-family="Inter-Regular_Medium, Inter" font-size="14.6666667" font-weight="400">
+                        <text id="History">
+                            <tspan x="0" y="14">History</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="bal" transform="translate(122.2742, 94.7833)" fill-rule="nonzero">
+                    <g id="l" transform="translate(0, -0)" fill="#6B7185" font-family="Inter-Regular, Inter" font-size="12.8333333" font-weight="normal">
+                        <text id="Total-portfolio">
+                            <tspan x="0" y="12">Total portfolio</tspan>
+                        </text>
+                    </g>
+                    <g id="v" transform="translate(8.4975, 19.8)" fill="#A3A8B8" font-family="Inter-Regular_ExtraBold, Inter" font-size="36.6666667" font-weight="700">
+                        <text id="$-—">
+                            <tspan x="0" y="36">$ —</tspan>
+                        </text>
+                    </g>
+                    <g id="n" transform="translate(3.9967, 66.1833)" fill="#A3A8B8" font-family="Inter-Regular, Inter" font-size="12.375" font-weight="normal">
+                        <text id="Not-available">
+                            <tspan x="0" y="12">Not available</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="qa" transform="translate(98.0833, 195.9833)">
+                    <g id="q">
+                        <g id="c">
+                            <rect id="Rectangle" fill="#7B5CFF" fill-rule="nonzero" x="0" y="0" width="47.6666667" height="47.6666667" rx="23.8333333"></rect>
+                            <g id="icon-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.1667, 20.1667)" stroke="#FFFFFF" stroke-width="2.10833333">
+                                <path d="M0,9.16666667 L9.16666667,0 M0.916666667,0 L9.16666667,0 L9.16666667,8.25" id="Shape"></path>
+                            </g>
+                        </g>
+                        <text id="Send" fill="#111318" fill-rule="nonzero" font-family="Inter-Regular_Medium, Inter" font-size="11.9166667" font-weight="400">
+                            <tspan x="9.2125" y="65.9">Send</tspan>
+                        </text>
+                    </g>
+                    <g id="q" transform="translate(84.3333, 0)">
+                        <g id="c-g">
+                            <rect id="Rectangle" fill="#F2F3F7" fill-rule="nonzero" x="0" y="0" width="47.6666667" height="47.6666667" rx="23.8333333"></rect>
+                            <g id="icon-3" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.1667, 20.1667)" stroke="#111318" stroke-width="2.10833333">
+                                <path d="M9.16666667,0 L0,9.16666667 M8.25,9.16666667 L0,9.16666667 L0,0.916666667" id="Shape"></path>
+                            </g>
+                        </g>
+                        <text id="Receive" fill="#111318" fill-rule="nonzero" font-family="Inter-Regular_Medium, Inter" font-size="11.9166667" font-weight="400">
+                            <tspan x="1.30166667" y="65.9">Receive</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="sec" transform="translate(14.6667, 292.05)" fill="#6B7185" fill-rule="nonzero" font-family="Inter-Regular_Medium, Inter" font-size="11.9166667" font-weight="400">
+                    <text id="ASSETS">
+                        <tspan x="0" y="12">ASSETS</tspan>
+                    </text>
+                </g>
+                <g id="group" transform="translate(0, 313.3167)">
+                    <rect id="Rectangle" fill="#F2F3F7" fill-rule="nonzero" x="0" y="0" width="328.166667" height="113.666667" rx="11"></rect>
+                    <g id="row-ic" transform="translate(14.6667, 11)">
+                        <g id="div">
+                            <rect id="Rectangle" fill="#F7931A" fill-rule="nonzero" x="0" y="0" width="34.8333333" height="34.8333333" rx="17.4166667"></rect>
+                            <g id="icon-4" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.5833, 11.9167)" stroke="#FFFFFF" stroke-width="2.10833333">
+                                <path d="M0,1.83333333 L5.04166667,1.83333333 C6.56044973,1.83333333 7.79166667,3.06455027 7.79166667,4.58333333 C7.79166667,6.1021164 6.56044973,7.33333333 5.04166667,7.33333333 L0,7.33333333 L0,1.83333333 Z M0,7.33333333 L5.95833333,7.33333333 C7.4771164,7.33333333 8.70833333,8.56455027 8.70833333,10.0833333 C8.70833333,11.6021164 7.4771164,12.8333333 5.95833333,12.8333333 L0,12.8333333 L0,7.33333333 Z M4.99600361e-16,0.458333333 L4.99600361e-16,14.2083333 M2.75,0 L2.75,1.83333333 M2.75,12.8333333 L2.75,14.6666667" id="Shape"></path>
+                            </g>
+                        </g>
+                        <g id="grow" transform="translate(45.8333, 0.4583)" fill-rule="nonzero">
+                            <g id="t1" fill="#111318" font-family="Inter-Regular_Medium, Inter" font-size="14.6666667" font-weight="400">
+                                <text id="Bitcoin">
+                                    <tspan x="0" y="14">Bitcoin</tspan>
+                                </text>
+                            </g>
+                            <g id="t2" transform="translate(0, 19.0667)" fill="#6B7185" font-family="Inter-Regular, Inter" font-size="12.375" font-weight="normal">
+                                <text id="BTC">
+                                    <tspan x="0" y="12">BTC</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="val" transform="translate(252.34, 0.4583)" fill="#A3A8B8" fill-rule="nonzero">
+                            <g id="a" transform="translate(31.8267, 0)" font-family="Inter-Regular_Medium, Inter" font-size="14.6666667" font-weight="400">
+                                <text id="—">
+                                    <tspan x="0" y="14">—</tspan>
+                                </text>
+                            </g>
+                            <g id="u" transform="translate(0, 19.0667)" font-family="Inter-Regular, Inter" font-size="11.9166667" font-weight="normal">
+                                <text id="USD-n/a">
+                                    <tspan x="0" y="12">USD n/a</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="row-ic" transform="translate(14.6667, 56.8333)" fill-rule="nonzero">
+                        <rect id="separator" fill="#E4E6EC" x="42.1666667" y="0" width="271.333333" height="1"></rect>
+                        <g id="div" transform="translate(0, 11)">
+                            <rect id="Rectangle" fill="#627EEA" x="0" y="0" width="34.8333333" height="34.8333333" rx="17.4166667"></rect>
+                            <g id="icon-5" transform="translate(14.2083, 11)" fill="#FFFFFF">
+                                <polygon id="Path" opacity="0.9" points="5.95833333 0 11.9166667 9.35 5.95833333 12.8333333 0 9.35"></polygon>
+                                <polygon id="Path" points="5.95833333 14.1166667 11.9166667 10.6333333 5.95833333 18.3333333 0 10.6333333"></polygon>
+                            </g>
+                        </g>
+                        <g id="grow" transform="translate(45.8333, 11.4583)">
+                            <g id="t1" fill="#111318" font-family="Inter-Regular_Medium, Inter" font-size="14.6666667" font-weight="400">
+                                <text id="Ethereum">
+                                    <tspan x="0" y="14">Ethereum</tspan>
+                                </text>
+                            </g>
+                            <g id="t2" transform="translate(0, 19.0667)" fill="#6B7185" font-family="Inter-Regular, Inter" font-size="12.375" font-weight="normal">
+                                <text id="ETH">
+                                    <tspan x="0" y="12">ETH</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="val" transform="translate(252.34, 11.4583)" fill="#A3A8B8">
+                            <g id="a" transform="translate(31.8267, 0)" font-family="Inter-Regular_Medium, Inter" font-size="14.6666667" font-weight="400">
+                                <text id="—">
+                                    <tspan x="0" y="14">—</tspan>
+                                </text>
+                            </g>
+                            <g id="u" transform="translate(0, 19.0667)" font-family="Inter-Regular, Inter" font-size="11.9166667" font-weight="normal">
+                                <text id="USD-n/a">
+                                    <tspan x="0" y="12">USD n/a</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="tabs" transform="translate(0, 671.7333)">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="328.166667" height="56.8333333" rx="28.4166667"></rect>
+                    <rect id="Rectangle" stroke-opacity="0.85" stroke="#FFFFFF" stroke-width="0.916666667" x="0.458333333" y="0.458333333" width="327.25" height="55.9166667" rx="27.9583333"></rect>
+                    <g id="tab" transform="translate(23.8608, 14.2079)">
+                        <g id="pill" transform="translate(6.008, 0)" stroke="#A3A8B8" stroke-linejoin="round" stroke-width="1.65">
+                            <g id="icon-8">
+                                <path d="M8.2552914,0.000408614952 C5.3069053,-0.00148242613 2.58162496,1.57021167 1.10661315,4.12311674 C-0.368398672,6.67602181 -0.36890256,9.82203118 1.1052914,12.3754086 L0.00529139861,16.5004086 L4.22195807,15.4004086 C7.23543029,17.1346874 11.0127554,16.7935377 13.6667359,14.5474022 C16.3207165,12.3012667 17.2816325,8.63231473 16.0693986,5.37359922 C14.8571648,2.11488372 11.7320068,-0.0340591106 8.2552914,0.000408614952 Z" id="Path"></path>
+                            </g>
+                        </g>
+                        <text id="Chats" fill="#A3A8B8" fill-rule="nonzero" font-family="Inter-Regular_Medium, Inter" font-size="9.625" font-weight="400">
+                            <tspan x="0" y="29.5337419">Chats</tspan>
+                        </text>
+                    </g>
+                    <g id="tab-on" transform="translate(68.9242, 5.5)" fill-rule="nonzero">
+                        <rect id="Rectangle" fill-opacity="0.14" fill="#FFFFFF" x="0" y="0" width="63.4333333" height="45.8333333" rx="22.9166667"></rect>
+                        <g id="icon-9" transform="translate(24.3742, 10.5417)">
+                            <path d="M1.83333333,0 L13.75,0 C14.256261,0 14.6666667,0.410405646 14.6666667,0.916666667 L14.6666667,1.83333333 L2.29166667,1.83333333 C2.03853616,1.83333333 1.83333333,2.03853616 1.83333333,2.29166667 C1.83333333,2.54479718 2.03853616,2.75 2.29166667,2.75 L15.5833333,2.75 C16.0895944,2.75 16.5,3.16040565 16.5,3.66666667 L16.5,11.9166667 C16.5,12.9291887 15.6791887,13.75 14.6666667,13.75 L1.83333333,13.75 C0.820811292,13.75 0,12.9291887 0,11.9166667 L0,1.83333333 C0,0.820811292 0.820811292,0 1.83333333,0 Z" id="Path" fill="#7B5CFF"></path>
+                            <circle id="Oval" fill="#FFFFFF" cx="12.8333333" cy="7.79166667" r="1.28333333"></circle>
+                        </g>
+                        <text id="Wallet" fill="#7B5CFF" font-family="Inter-Regular_Bold, Inter" font-size="9.625" font-weight="bold">
+                            <tspan x="17.2425" y="38.2416667">Wallet</tspan>
+                        </text>
+                    </g>
+                    <g id="tab" transform="translate(145.0442, 14.2083)">
+                        <g id="pill" transform="translate(11.6875, 0)" stroke="#A3A8B8" stroke-width="1.65">
+                            <g id="icon-10">
+                                <circle id="Oval" cx="8.25" cy="8.25" r="8.25"></circle>
+                                <path d="M0,8.25 L16.5,8.25 M8.25,0 C10.5416667,2.38333333 11.7333333,5.13333333 11.7333333,8.25 C11.7333333,11.3666667 10.5416667,14.1166667 8.25,16.5 M8.25,0 C5.95833333,2.38333333 4.76666667,5.13333333 4.76666667,8.25 C4.76666667,11.3666667 5.95833333,14.1166667 8.25,16.5" id="Shape"></path>
+                            </g>
+                        </g>
+                        <text id="Browser" fill="#A3A8B8" fill-rule="nonzero" font-family="Inter-Regular_Medium, Inter" font-size="9.625" font-weight="400">
+                            <tspan x="0" y="29.5333333">Browser</tspan>
+                        </text>
+                    </g>
+                    <g id="tab" transform="translate(212.1625, 13.8417)">
+                        <g id="pill" transform="translate(8.745, 0)" stroke="#A3A8B8" stroke-linejoin="round" stroke-width="1.65">
+                            <g id="icon-11">
+                                <polygon id="Path" points="7.51666667 0 15.0333333 4.30833333 15.0333333 12.925 7.51666667 17.2333333 0 12.925 0 4.30833333"></polygon>
+                            </g>
+                        </g>
+                        <text id="Blocks" fill="#A3A8B8" fill-rule="nonzero" font-family="Inter-Regular_Medium, Inter" font-size="9.625" font-weight="400">
+                            <tspan x="0" y="29.9">Blocks</tspan>
+                        </text>
+                    </g>
+                    <g id="tab" transform="translate(272.1767, 13.75)">
+                        <g id="pill" transform="translate(11.6142, 0)" stroke="#A3A8B8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.65">
+                            <g id="icon-12">
+                                <circle id="Oval" cx="8.06666667" cy="8.70833333" r="2.75"></circle>
+                                <polygon id="Path" points="8.06666667 0 9.9 2.2 12.7416667 1.83333333 13.5666667 4.58333333 16.1333333 5.86666667 15.3083333 8.61666667 16.1333333 11.3666667 13.5666667 12.65 12.7416667 15.4 9.9 15.0333333 8.06666667 17.2333333 6.23333333 15.0333333 3.39166667 15.4 2.56666667 12.65 0 11.4583333 0.825 8.70833333 4.07081776e-16 5.95833333 2.56666667 4.675 3.39166667 1.925 6.23333333 2.29166667"></polygon>
+                            </g>
+                        </g>
+                        <text id="Settings" fill="#A3A8B8" fill-rule="nonzero" font-family="Inter-Regular_Medium, Inter" font-size="9.625" font-weight="400">
+                            <tspan x="0" y="29.9916667">Settings</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="home" opacity="0.85" transform="translate(102.6667, 744.15)" fill="#111318" fill-rule="nonzero">
+                    <rect id="Rectangle" x="0" y="0" width="122.833333" height="4.58333333" rx="2.29166667"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
